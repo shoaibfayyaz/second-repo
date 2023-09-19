@@ -1,2 +1,4 @@
 # second-repo
-second repo of html and css
+second repo of advanced javascript
+<br>
+Master in javascript
